@@ -12,7 +12,7 @@ This full-stack web app was built with Ruby on Rails, HTML/CSS, and Java Script.
 -PostgreSQL
 -Rails 5.2.3
 
-## Getting Started
+## Running Locally  
 
 To run on your local dev enviroment:
 1. Clone the repository to a working directory

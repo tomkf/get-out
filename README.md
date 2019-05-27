@@ -8,6 +8,21 @@ Created as a collaborative project by <a href="https://github.com/tomkf">Thomas 
 This full-stack web app was built with Ruby on Rails, HTML/CSS, and Java Script. 
 
 
+
+## ScreenShots
+<div>
+- HOMEPAGE
+!["Landing Page: "](https://raw.githubusercontent.com/tomkf/get-out/master/public/Screen%20Shot%202019-05-27%20at%201.45.34%20PM.png)
+
+- BOOKING PAGE:
+!["Booking Page: "](https://raw.githubusercontent.com/tomkf/get-out/master/public/Screen%20Shot%202019-05-27%20at%201.46.38%20PM.png)
+
+- PRODUCT PAGE:
+!["PRODUCT Page: "](https://raw.githubusercontent.com/tomkf/get-out/master/public/Screen%20Shot%202019-05-27%20at%202.24.01%20PM.png)
+<div>
+
+
+
 ## Dependencies
 -PostgreSQL
 -Rails 5.2.3

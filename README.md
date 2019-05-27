@@ -12,7 +12,7 @@ This full-stack web app was built with Ruby on Rails, HTML/CSS, and Java Script.
 ## ScreenShots
 <div>
 - HOMEPAGE
-!["Landing Page: "](https://raw.githubusercontent.com/tomkf/get-out/master/public/Screen%20Shot%202019-05-27%20at%201.45.34%20PM.png)
+<img src="public/Screen Shot 2019-05-27 at 1.45.34 PM.png" />
  
 - BOOKING PAGE:
 !["Booking Page: "](https://raw.githubusercontent.com/tomkf/get-out/master/public/Screen%20Shot%202019-05-27%20at%201.46.38%20PM.png)
